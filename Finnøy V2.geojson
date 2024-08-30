@@ -6,9 +6,7 @@
       "properties": {
         "stroke": "#d00b0b",
         "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#bc1010",
-        "fill-opacity": 10
+        "stroke-opacity": 1    
       },
       "geometry": {
         "type": "Polygon",
@@ -90,9 +88,7 @@
         "stroke": "#dea11b",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#d0a716",
-        "fill-opacity": 10
-      },
+        },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
