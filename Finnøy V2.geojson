@@ -8,7 +8,7 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#bc1010",
-        "opacity": 10
+        "fill-opacity": 10
       },
       "geometry": {
         "type": "Polygon",
@@ -91,7 +91,7 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#d0a716",
-        "opacity": 10
+        "fill-opacity": 10
       },
       "geometry": {
         "type": "Polygon",
